@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempMailBot.Telegram", "TempMailBot.Telegram\TempMailBot.Telegram.csproj", "{16DD5EE2-A4B4-479D-86D8-5608DF0E5BB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempMailBot.Client", "TempMailBot.Client\TempMailBot.Client.csproj", "{039C919C-BB3C-49F3-83E7-43E2C2E7EBCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempMailBot.Logging", "TempMailBot.Logging\TempMailBot.Logging.csproj", "{C642A2FE-6E4A-42B9-BFAB-223E6498F177}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16DD5EE2-A4B4-479D-86D8-5608DF0E5BB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16DD5EE2-A4B4-479D-86D8-5608DF0E5BB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16DD5EE2-A4B4-479D-86D8-5608DF0E5BB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16DD5EE2-A4B4-479D-86D8-5608DF0E5BB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{039C919C-BB3C-49F3-83E7-43E2C2E7EBCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{039C919C-BB3C-49F3-83E7-43E2C2E7EBCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{039C919C-BB3C-49F3-83E7-43E2C2E7EBCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{039C919C-BB3C-49F3-83E7-43E2C2E7EBCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C642A2FE-6E4A-42B9-BFAB-223E6498F177}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C642A2FE-6E4A-42B9-BFAB-223E6498F177}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C642A2FE-6E4A-42B9-BFAB-223E6498F177}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C642A2FE-6E4A-42B9-BFAB-223E6498F177}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

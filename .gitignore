@@ -1,0 +1,53 @@
+# Build outputs
+**/bin/
+**/obj/
+**/Debug/
+**/Release/
+**/x64/
+**/x86/
+
+# IDE settings
+.vs/
+.idea/
+.vscode/
+*.sln.iml
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Logs
+logs/
+**/logs/
+*.log
+
+# NuGet / packages
+**/packages/
+*.nupkg
+project.lock.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local databases and data
+*.db
+*.sqlite
+*.sqlite3
+**/bot_data.db
+
+# Secrets / local config
+appsettings.Development.json
+appsettings.Local.json
+.env
+
+# Rider / ReSharper
+_ReSharper.Caches/
+*.DotSettings.user
+
+# Test/coverage (optional)
+TestResults/
+coverage/
+*.coverage*
